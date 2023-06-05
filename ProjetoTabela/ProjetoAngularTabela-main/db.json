@@ -1,0 +1,17 @@
+{
+  "usuarios": [
+    {
+      "nome": "Fernando",
+      "idade": "18",
+      "cpf": "123",
+      "id": 1
+    },
+    {
+      "nome": "Maria Rita",
+      "idade": "18",
+      "cpf": "456",
+      "id": 2
+    }
+  ],
+  "mensagens": []
+}
